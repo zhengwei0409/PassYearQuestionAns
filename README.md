@@ -1,5 +1,8 @@
 # READ ME  
 
+* references *
+* chatgpt , github.com/chenghui-lee/WIX1002-Past-Year , youtube , stack overflow , my BRAIN
+
 ## 2020  
 Question 4 idk how to do, the log file look very scary
 
