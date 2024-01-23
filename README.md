@@ -7,4 +7,4 @@ Question 4 idk how to do, the log file look very scary
 Question 3 truly brought back memories of the bio I learned. NOSTALGIA
 
 ## 2018
-comming soooooooon
+Again Question 3 useless, do we really need to print this kind of pattern in real life?
