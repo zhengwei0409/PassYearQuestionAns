@@ -1,6 +1,6 @@
 # READ ME  
 
-*references*
+*references : *
 *chatgpt , github.com/chenghui-lee/WIX1002-Past-Year , youtube , stack overflow , my BRAIN*
 
 ## 2020  
