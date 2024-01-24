@@ -13,4 +13,4 @@ Question 3 truly brought back memories of the bio I learned. NOSTALGIA
 Again Question 3 useless, do we really need to print this kind of pattern in real life?
 
 ## 2017 
-comming sooooooooon
+Question 2, the tuition fee for year 3 should be 10.67  
