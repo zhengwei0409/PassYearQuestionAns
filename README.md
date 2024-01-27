@@ -21,3 +21,6 @@ Question 4, I am square root, my crush is -1, and if we are together, it is an i
 
 ## 2016  
 ✈︎ ✈︎ ✈︎
+
+## 2016 (S2 RETAKE PAPER)
+Qestion 4, remember convert to radian by using Math.toRadian() before putting it into Math.tan() 
