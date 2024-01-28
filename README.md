@@ -23,7 +23,10 @@ Question 2, the tuition fee for year 3 should be 10.67
 Question 4, I am square root, my crush is -1, and if we are together, it is an imaginary part ><
 
 ### 2017 (S2 RETAKE PAPER)
-Question 4, be careful ><
+Question 4, be careful ><  
+
+Good job guys, don't give up, remember why u choose to study cs ><  
+jia you !!!
 
 ### 2016  
 ✈︎ ✈︎ ✈︎
