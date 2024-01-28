@@ -25,11 +25,11 @@ Question 4, I am square root, my crush is -1, and if we are together, it is an i
 ### 2017 (S2 RETAKE PAPER)
 Question 4, be careful ><  
 
-Good job guys, don't give up, remember why u choose to study cs ><  
-jia you !!!
-
 ### 2016  
 ✈︎ ✈︎ ✈︎
 
 ### 2016 (S2 RETAKE PAPER)
-Qestion 4, remember convert to radian by using Math.toRadian() before putting it into Math.tan() 
+Question 4, remember convert to radian by using Math.toRadian() before putting it into Math.tan()  
+
+Good job guys, don't give up, remember why u choose to study cs ><  
+jia you !!!
