@@ -3,6 +3,9 @@
 *references*  
 *chatgpt , github.com/chenghui-lee/WIX1002-Past-Year , youtube , my BRAIN*
 
+### 2021
+idk why i spend a lot of time formatting the output , btw why the questions is getting harder
+
 ### 2020  
 Question 4 idk how to do, the log file look very scary
 
