@@ -34,5 +34,6 @@ Question 4, be careful ><
 ### 2016 (S2 RETAKE PAPER)
 Question 4, remember convert to radian by using Math.toRadian() before putting it into Math.tan()  
 
-Good job guys, don't give up, remember why u choose to study cs ><  
+Good job guys, don't give up >< 
+popi everyone get 4.0 !!!
 jia you !!!
