@@ -3,6 +3,9 @@
 *references*  
 *chatgpt , github.com/chenghui-lee/WIX1002-Past-Year , youtube , my BRAIN*
 
+### 2023
+why always have log file question, i really dont know how to deal with it
+
 ### 2022
 i dont want solving FOP anymore, i want celebrate CNY !!!
 
