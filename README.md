@@ -3,6 +3,9 @@
 *references*  
 *chatgpt , github.com/chenghui-lee/WIX1002-Past-Year , youtube , my BRAIN*
 
+### 2022
+i dont want solving FOP anymore, i want celebrate CNY !!!
+
 ### 2021
 idk why i spend a lot of time formatting the output , btw why the questions is getting harder
 
